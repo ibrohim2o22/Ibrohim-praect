@@ -1,38 +1,130 @@
-.App {
-  text-align: center;
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style: none;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+
+
+.span-1{
+  position: relative;
+  bottom: 23px;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.img-5{
+  width: 800px;
+  height: 467px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.span-2{
+  position: relative;
+  bottom: 24px;
 }
 
-.App-link {
-  color: #61dafb;
+/* .carddssdsdsdssd-1{
+  position: relative;
+  left: 600px;
+  bottom: 550px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.cardsssffddfqge-2{
+  position: relative;
+  left: 600px;
+  bottom: 440px;
+} */
+
+.grafikadzayner-1{
+  height: 350px;
+}
+
+.grafikadzayner{
+  height: 1000px;
+}
+
+.h2-14{
+  position: relative;
+  top: 100px;
+}
+
+.girl{
+  position: relative;
+  top: 20px;
+}
+
+.h2-17{
+  position: relative;
+  top: 20px;
+  left: 50px;
+}
+
+.buttonwww-1{
+  position: relative;
+  bottom: 30px;
+  right: 2px;
+  border-radius: 6px;
+}
+
+.imghhh-1{
+  position: relative;
+  left: px;
+}
+
+.buttonwww-2{
+  position: relative;
+  bottom: 30px;
+  border-radius: 6px;
+  right: 2px;
+}
+
+.h2-25{
+  position: relative;
+  top: 50px;
+}
+
+.cardgray-1{
+  height: 500px;
+}
+
+.img-8{
+  position: relative;
+  top: 20px;
+}
+
+.h2-49{
+  position: relative;
+  top: 30px;
+}
+
+.smallcardimg-1{
+  position: relative;
+  left: 55px;
+  bottom: 70px;
+}
+
+.smallcard-2{
+  position: relative;
+  left: 220px;
+  bottom: 50px;
+}
+
+.smallcard-3{
+  position: relative;
+  left: 620px;
+  bottom: 425px;
+}
+
+.allcardfather{
+  position: relative;
+  height: 800px;
+}
+
+.thepraectend{
+  height: 500px;
+}
+
+.h2-52{
+  position: relative;
+  top: 200px;
 }
