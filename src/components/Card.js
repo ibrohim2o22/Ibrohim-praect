@@ -409,9 +409,15 @@ function Card() {
       <h2 className='h2-54 text-white ml-[330px] mt-[10px]'>Показать цены в: </h2>
       <div className='w-96 h-96 bg-white ml-[800px] mt-[-250px] rounded-2xl'>
         <h2 className='h2-55 text-4xl font-semibold ml-[50px]'>Оставьте заявку</h2>
-        <h2 className='h2-56 font-semibold ml-[50px] mt-[30px]'>Имя</h2>
-        <h2 className='h2-56 font-semibold ml-[50px] mt-[30px]'>Email</h2>
-        <h2 className='h2-56 font-semibold ml-[50px] mt-[30px]'>Телефон</h2>
+        <form action="#">
+         <input className='input-1 text-black ml-[50px] mt-[30px]' type="text" placeholder='Имя' required />
+        </form>
+        <form action="#">
+         <input className='input-1 text-black ml-[50px] mt-[30px]' type="text" placeholder='Email' required />
+        </form>
+        <form action="#">
+         <input className='input-1 text-black ml-[50px] mt-[30px]' type="text" placeholder='Телефон' required />
+        </form>
         <RiRectangleLine className='iconrectengle mt-[20px] ml-[50px]' />
         <h2 className='h2-57 ml-[80px] mt-[-20px]'>Я соглашаюсь с условиями публичной оферты  и политики конфиденциальности</h2>
         <button className='butttttton w-44 h-8 bg-gray-400 text-white rounded-2xl ml-[90px] mt-[30px]'>Хочу учиться</button>

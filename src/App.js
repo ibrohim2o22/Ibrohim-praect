@@ -29,7 +29,7 @@ function App() {
           Оставить заявку
         </button>
       </div>
-      <hr />
+       
       <div className="navbar-body flex bg-[#F2F3F6]">
        <div>
        <button className="button-2 w-40 h-8 bg-white text-black border-black border-2 font-semibold ml-[250px] mt-[50px] rounded-md">
